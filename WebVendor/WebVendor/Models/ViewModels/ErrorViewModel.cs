@@ -1,6 +1,6 @@
 using System;
 
-namespace Aula1.Models {
+namespace WebVendor.Models {
     public class ErrorViewModel {
         public string RequestId { get; set; }
 

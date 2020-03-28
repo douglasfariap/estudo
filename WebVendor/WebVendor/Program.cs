@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace Aula1 {
+namespace WebVendor {
     public class Program {
         public static void Main(string[] args)
         {

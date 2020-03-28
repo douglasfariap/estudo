@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Aula1.Models;
+using WebVendor.Models;
 
-namespace Aula1.Controllers {
+namespace WebVendor.Controllers {
     public class HomeController : Controller {
         public IActionResult Index()
         {
